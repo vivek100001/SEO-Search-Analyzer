@@ -1,0 +1,6 @@
+{
+  "name": "SEO Search Analyzer",
+  "description": "An SEO tool to analyze the top 10 Google search results for specific keywords and countries, providing a strategic summary, content suggestions, and key SEO takeaways.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
